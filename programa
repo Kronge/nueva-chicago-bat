@@ -1,0 +1,44 @@
+@echo off
+Msg * Asociate a Nueva Chicago
+title NUEVA CHICAGO PASION
+color 0A
+echo.
+echo escuchen
+echo.
+pause
+cls
+echo.
+echo corran la bola
+echo.
+pause
+cls
+echo.
+echo se hicieron putos los negros de casanova
+echo.
+pause
+cls
+echo.
+echo que lindo es
+echo.
+pause
+cls
+echo.
+echo vamo a coger, por esos ranchos que hay por la ruta 3
+echo.
+pause
+cls
+echo.
+echo los negros llegan la noche, y se visten de mujer
+echo.
+pause
+cls
+echo.
+echo para hacer un par de pesos, porque tienen que comer
+echo.
+pause
+cls
+echo.
+echo programa por Geronimo Silva
+echo.
+start https://www.paypertic.com/chicago/
+pause>nul
