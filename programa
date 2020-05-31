@@ -38,7 +38,7 @@ echo.
 pause
 cls
 echo.
-echo programa por Geronimo Silva
+echo programa por Kronge
 echo.
 start https://www.paypertic.com/chicago/
 pause>nul
